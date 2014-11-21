@@ -8,6 +8,6 @@
 
 #ifndef PhotoSearchExample_bridge_h
 #define PhotoSearchExample_bridge_h
-
+#import "AFNetworking/AFNetworking.h"
 
 #endif
